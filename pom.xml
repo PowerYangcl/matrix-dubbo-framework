@@ -48,7 +48,7 @@
         <xmlworker.version>5.5.5</xmlworker.version>
         <itext-asian.version>5.2.0</itext-asian.version>
         <activemq.version>5.7.0</activemq.version>
-        <httpclient.version>4.5.1</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <pagerhelper.version>4.0.3</pagerhelper.version>
         <jdom.version>2.0.2</jdom.version>
         <dubbo.version>2.6.5</dubbo.version>
@@ -362,7 +362,7 @@
         <dependency>
             <groupId>org.apache.httpcomponents</groupId>
             <artifactId>httpclient</artifactId>
-            <version>4.5.1</version>
+            <version>4.5.13</version>
         </dependency>
         <dependency>
             <groupId>org.apache.httpcomponents</groupId>
